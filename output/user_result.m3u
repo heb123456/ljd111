@@ -1,81 +1,63 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
-#EXTINF:-1 tvg-name="2024-10-17 10:35:28" tvg-logo="https://live.fanmingming.com/tv/2024-10-17 10:35:28.png" group-title="更新时间",2024-10-17 10:35:28
+#EXTINF:-1 tvg-name="2024-10-17 22:38:26" tvg-logo="https://live.fanmingming.com/tv/2024-10-17 22:38:26.png" group-title="更新时间",2024-10-17 22:38:26
 url
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://110.177.146.171:888/rtp/239.1.1.46:8046$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://27.9.199.105:8005/rtp/225.0.4.82:7980$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://123.144.84.164:8004/rtp/225.0.4.82:7980$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://223.10.3.122:8082/rtp/239.1.1.46:8046$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://118.183.212.29:6868/rtp/239.255.30.67:8231$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://27.10.129.243:8002/rtp/225.0.4.82:7980$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://114.252.225.255:8000/rtp/239.3.1.141:1234$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://223.10.3.122:8083/rtp/239.1.1.46:8046$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://114.249.110.69:4022/rtp/239.3.1.141:1234$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://114.243.104.64:8822/rtp/239.3.1.141:1234$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://125.36.67.110:8888/rtp/225.1.1.111:5002$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://183.128.234.245:4022/rtp/233.50.201.104:5140$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://60.220.167.7:8082/rtp/226.0.2.148:9096$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://175.9.194.24:4502/rtp/239.76.253.185:9000$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://183.184.170.93:8002/rtp/226.0.2.148:9096$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://123.118.102.27:4022/rtp/239.3.1.141:1234$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://27.217.84.115:7000/udp/239.253.248.89:8000$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://114.243.97.208:8822/rtp/239.3.1.141:1234$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://118.79.115.77:6001/rtp/226.0.2.148:9096$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://183.185.227.252:8005/rtp/226.0.2.148:9096$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://183.145.74.110:7777/rtp/233.50.201.104:5140$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://220.184.69.32:4022/rtp/233.50.201.104:5140$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://180.158.191.162:9999/udp/239.45.1.124:5140$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://119.163.57.184:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
 http://60.164.128.167:8029/rtp/239.255.30.67:8231$1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://118.183.212.29:6868/rtp/239.255.30.67:8231$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://110.177.146.171:888/rtp/239.1.1.46:8046$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://119.98.37.126:8888/rtp/239.69.1.68:10048$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://125.123.147.237:8888/rtp/233.50.201.104:5140$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://183.185.227.252:8001/rtp/226.0.2.148:9096$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://27.11.48.167:8001/rtp/225.0.4.82:7980$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://118.251.61.206:8888/rtp/239.76.253.185:9000$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://27.11.48.30:8003/rtp/225.0.4.82:7980$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://27.10.74.30:8005/rtp/225.0.4.82:7980$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://27.9.199.105:8005/rtp/225.0.4.82:7980$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://221.234.220.250:4022/rtp/239.69.1.68:10048$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://27.217.84.115:7000/udp/239.253.248.89:8000$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://119.98.51.196:4022/rtp/239.69.1.68:10048$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://27.10.208.155:8005/rtp/225.0.4.82:7980$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://119.98.99.124:5555/rtp/239.69.1.68:10048$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://183.185.227.252:8005/rtp/226.0.2.148:9096$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://220.184.69.32:4022/rtp/233.50.201.104:5140$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://180.158.191.162:9999/rtp/239.45.1.124:5140$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://223.215.3.199:2000/rtp/238.1.78.20:6088$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://59.172.33.61:8880/rtp/239.69.1.68:10048$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://114.243.156.93:8888/rtp/239.3.1.141:1234$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://218.80.126.237:4022/rtp/239.45.1.124:5140$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://171.88.175.52:8888/rtp/239.93.0.167:5140$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://120.6.7.108:4022/rtp/239.253.92.91:8021$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
 http://221.218.157.61:3527/rtp/239.3.1.141:1234$1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://enlen.vip:4022/rtp/239.200.200.69:1234$1920x1080
+http://222.169.41.210:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0$1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://114.55.117.163:8081/iptv/gitv.php?id=TJWShd-8M.m3u8&sign=aqk34i$1920x1080
+http://114.55.117.163:8081/iptv/itv.php?id=天津卫视50FPS.m3u8&sign=aqk34i$1920x1080
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
+http://119.135.1.234:6699/live/1027/index.m3u8$1920x1080
 #EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
 http://zhixiao.outside.live.pthv.gitv.tv/live/TJWShd-8M/live.m3u8$1920x1080
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://live.fanmingming.com/tv/天津卫视.png" group-title="更新时间",天津卫视
-http://123.138.22.30:9901/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
-#EXTINF:-1 tvg-name="天津新闻" tvg-logo="https://live.fanmingming.com/tv/天津新闻.png" group-title="更新时间",天津新闻
-http://125.36.67.110:8888/rtp/225.1.1.130:5002$1920x1080
-#EXTINF:-1 tvg-name="天津文艺" tvg-logo="https://live.fanmingming.com/tv/天津文艺.png" group-title="更新时间",天津文艺
-http://125.36.67.110:8888/rtp/225.1.1.131:5002$1920x1080
-#EXTINF:-1 tvg-name="天津影视" tvg-logo="https://live.fanmingming.com/tv/天津影视.png" group-title="更新时间",天津影视
-http://125.36.67.110:8888/rtp/225.1.1.149:5002$1920x1080
-#EXTINF:-1 tvg-name="天津都市" tvg-logo="https://live.fanmingming.com/tv/天津都市.png" group-title="更新时间",天津都市
-http://125.36.67.110:8888/rtp/225.1.1.128:5002$1920x1080
-#EXTINF:-1 tvg-name="天津体育" tvg-logo="https://live.fanmingming.com/tv/天津体育.png" group-title="更新时间",天津体育
-http://125.36.67.110:8888/rtp/225.1.1.122:5002$1920x1080
-#EXTINF:-1 tvg-name="天津科教" tvg-logo="https://live.fanmingming.com/tv/天津科教.png" group-title="更新时间",天津科教
-http://125.36.67.110:8888/rtp/225.1.1.129:5002$1920x1080
-#EXTINF:-1 tvg-name="天津少儿" tvg-logo="https://live.fanmingming.com/tv/天津少儿.png" group-title="更新时间",天津少儿
-http://125.36.67.110:8888/rtp/225.1.1.125:5002$1920x1080
-#EXTINF:-1 tvg-name="天津购物" tvg-logo="https://live.fanmingming.com/tv/天津购物.png" group-title="更新时间",天津购物
-http://125.36.67.110:8888/rtp/225.1.1.151:5002$1920x1080
-#EXTINF:-1 tvg-name="天津IPTV" tvg-logo="https://live.fanmingming.com/tv/天津IPTV.png" group-title="更新时间",天津IPTV
-http://125.36.67.110:8888/rtp/225.1.2.123:5002$1920x1080
